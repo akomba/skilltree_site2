@@ -1,0 +1,62 @@
+.img-presenter {
+    display: flex;
+    max-height: 54px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 1rem;
+}
+
+.st-logo {
+    max-height: 40px;
+}
+
+.bg1 {
+    background-color: #fff2e5;
+}
+.bg2 {
+    background-color: #f8f9fa;
+}
+.bg3 {
+    background-color: #f0f5f9;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+.btn-outline.green{
+    border-color:#21bf73 !important;
+    color:#21bf73 !important;
+}
+
+.btn-outline.green:hover{
+   background-color: #21bf73 !important;
+   color: white !important;
+}
+
+.btn-action.blue {
+    background:#007bff;
+    color:white;
+    border-color:#007bff !important;
+}
+
+.exp-card {
+    position: relative;
+}
+
+.exp-card a.btn-action{
+    position: absolute;
+    bottom:2rem;
+}
+
+.course-list ul{
+    list-style: square inside;
+}
+
+.course-list ul li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1rem;
+    padding-bottom: 1rem;
+
+}
+
